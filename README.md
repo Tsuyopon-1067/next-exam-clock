@@ -11,3 +11,8 @@ run container
 ```
 docker compose up
 ```
+
+enter container
+```
+docker exec -it <CONTAINER ID> sh
+```
